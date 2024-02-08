@@ -88,7 +88,7 @@ pwd_strong2 = ''.join(list2)
 print(f'''\nHere is your strong password: {pwd_strong2}''')
 
 
-###THIS CODE WILL CHECK IF THE PASSWORD HAS SAME CHARACTERS OR NOT###
+###THIS CODE WILL CHECK IF THE PASSWORD HAS SAME CHARACTERS OR NOT####
 # password1 = "EgUp$))(+423604"  # Replace this with your first password
 # password2 = "EgUp$))(+423604"  # Replace this with your second password
 
