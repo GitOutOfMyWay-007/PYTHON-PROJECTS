@@ -39,3 +39,7 @@ And every time you generate a password, the positions of the symbols, numbers, a
 # Solution
 
 The solution is given in the password_generator.py file 
+The solution is done in 3  ways 
+  Using Lists
+  Using Strings
+  Using random.shuffle() Function
